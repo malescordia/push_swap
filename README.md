@@ -1,9 +1,9 @@
-# Push_swap
+# push_swap
 
-Welcome to the Push_swap project repository by malescordia.
+Welcome to the push_swap project repository by malescordia.
 
 ## Overview
-Push_swap is a sorting algorithm project at 42, where the challenge is to sort a stack of integers using a set of predefined operations with the minimum number of moves. The project focuses on algorithmic efficiency, problem-solving, and understanding the complexities of sorting.
+push_swap is a sorting algorithm project at 42, where the challenge is to sort a stack of integers using a set of predefined operations with the minimum number of moves. The project focuses on algorithmic efficiency, problem-solving, and understanding the complexities of sorting.
 
 ## Project Highlights
 - Implements various sorting algorithms efficiently.
